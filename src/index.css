@@ -1,3 +1,4 @@
+/* Generic elements styling */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +6,105 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(233, 236, 240);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+img {
+  border-radius: 100%;
+  width: 35%;
+  margin-top: 40px;
+}
+
+hr {
+  border-color: white;
+  /* color: white;
+  background-color: white; */
+}
+
+/* Main container style. Kept the position as relative (we want to keep the Profile section sticky) */
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  /* background-color: red; */
+  margin: 10px 0 10px 20px;
+  position: relative;
+  top: 0px;
+}
+
+/* Profile section. Kept the position sticky, so that it remains on the screen while we scroll right (Background) section */
+.profile {
+  width: 27vw;
+  background-color: white;
+  margin: 5px;
+  text-align: center;
+  border: 10px;
+  height: fit-content;
+  position: sticky;
+  top: 15px;
+}
+
+.profile-address {
+  padding-bottom: 20px;
+}
+
+.icon {
+  padding-right: 20px;
+  color: black;
+  font-size: larger;
+  /* width: 120%;
+  height: 120%; */
+}
+
+/* Background section. Position is relative. */
+.background {
+  width: 67vw;
+  /* padding: 20px; */
+  background-color: white;
+  margin: 5px;
+  align-self: flex-end;
+  position: relative;
+}
+
+.text-align {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.btn {
+  display: inline-block;
+  background: rgb(113, 171, 204);
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.reference {
+  border-left: solid lightgray 8px;
+}
+
+/* media query to display profile and background sections with full width when screen size is reduced to 1050px or below.
+   notice that the 'position' is changed to 'relative' for the profile section. */
+@media screen and (max-width: 1050px) {
+  .profile {
+    width: 100vw;
+    position: relative;
+  }
+
+  .background {
+    width: 100vw;
+  }
 }
