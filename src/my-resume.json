@@ -1,15 +1,15 @@
 {
     "basics": {
-      "name": "Mukul Chourey",
-      "label": "Technical Project Manager/Scrum Master",
+      "name": "My Name",
+      "label": "Software Engg",
       "image": "",
-      "email": "ncinme2020@gmail.com",
+      "email": "abc@gmail.com",
       "phone": "(123) 456-7890",
-      "url": "http://mukulchourey.example.com",
-      "summary": "Mukul is a senior techno-manager with 20+ years of global (UK/USA/India) work experience building software products and applications from the ground up, managing and delivering complex software projects (budget ranging $2m to $7m) in business change environments in Healthcare, Telecom, Human Resources, Financial Services and Technology organizations. Mukul works with the clients and business sponsors as a technology partner, who would decipher the requirements, build cross-functional agile teams with required domain knowledge and technology skills, facilitate technical design and architecture, deliver insight and innovation at every step of the process, and take complete ownership of the product development.",
+      "url": "http://myname.example.com",
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "location": {
-        "address": "Birkenhead Street",
-        "postalCode": "WC1H 8BL",
+        "address": "Bead Street",
+        "postalCode": "NE1H 5BL",
         "city": "London",
         "countryCode": "UK",
         "region": "Greater London"
@@ -17,24 +17,24 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "mukulchourey",
-          "url": "https://www.linkedin.com/in/mukul-chourey-bb99a01/"
+          "username": "myname",
+          "url": "https://www.linkedin.com/"
         },
         {
           "network": "gitHub",
-          "username": "ncinme",
-          "url": "https://github.com/ncinme"
+          "username": "GITHUB",
+          "url": "https://github.com"
         }
       ]
     },
     "work": [
       {
         "id": 1,
-        "name": "SenecaGlobal IT Services Pvt Ltd",
-        "location": "Hyderabad, India",
+        "name": "Nomad IT Services Pvt Ltd",
+        "location": "SA",
         "description": "Awesome IT Services company",
-        "position": "AVP - Programme Manager",
-        "url": "http://senecaglobal.com",
+        "position": "Programmer",
+        "url": "http://myglobal.com",
         "startDate": "Sep 2012",
         "endDate":"",
         "summary": "Driving initiatives around continuous improvement in quality, productivity and efficiency in all areas by implementing industry best practices and processes. Develop technology and domain competency resources to improve efficiency and effectiveness in delivery processes",
@@ -47,36 +47,21 @@
       },
       {
         "id": 2,
-        "name": "SHL, UK",
+        "name": "Boots, UK",
         "location": "London, UK",
         "description": "Awesome IT Services company",
-        "position": "Senior Project Manager",
-        "url": "http://shl.com",
+        "position": "Project Manager",
+        "url": "http://boots.com",
         "startDate": "Apr 2008",
         "endDate":"Aug 2012",
-        "summary": "Undertook organization-wide adoption of Agile methodologies in SHL, from the introduction of Agile to coaching the management, product owners, product managers and software development teams. Designed and implemented strategies for driving organizational changes.",
+        "summary": "Undertook organization-wide adoption of Agile methodologies in Boots, from the introduction of Agile to coaching the management, product owners, product managers and software development teams. Designed and implemented strategies for driving organizational changes.",
         "highlights": [
-          "Delivered an improved SaaS platform for SHL, catering to 30 million pre-employment assessments in 30 different languages. This platform generates annual revenue of GBP 80m.",
-          "Delivered an enterprise e-Commerce platform for SHL, resulting in additional revenue of GBP12m per year.",
+          "Delivered an improved SaaS platform for Boots, catering to 30 million pre-employment assessments in 30 different languages. This platform generates annual revenue of GBP 80m.",
+          "Delivered an enterprise e-Commerce platform for Bootsm, resulting in additional revenue of GBP12m per year.",
           "Delivered innovative, award winning, Talent Analytics product in the field of People Intelligence."
         ]
       },
-      {
-        "id": 3,
-        "name": "Tata Consultancy Services",
-        "location": "Mumbai, India",
-        "description": "IT Services company",
-        "position": "Consultant",
-        "url": "http://tcs.com",
-        "startDate": "Oct 1996",
-        "endDate":"Nov 2007",
-        "summary": "An Agile enthusiast, Certified Scrum Master (CSM) and Agile Certified Practitioner (PMI-ACP), with more than 12 years of Agile delivery management and consulting experience.",
-        "highlights": [
-          "Successfully delivered multiple Greenfield projects on web-based technologies.",
-          "Managed multi-million GBP account with a UK’s leading Telecom Company.",
-          "Led multiple telecom infrastructure and BPO outsourcing bids (GBP 3m to 30m)."
-        ]
-      }
+    
     ],
     "volunteer": [
       {
@@ -93,12 +78,12 @@
     ],
     "education": [
       {
-        "institution": "Indian Institute of Technology Delhi, India",
+        "institution": "ACB Sc",
         "url": "https://www.iitd.edu/",
         "area": "Engineering",
-        "studyType": "M. Tech",
-        "startDate": "Jul 1994",
-        "endDate": "Jun 1996",
+        "studyType": "B Sc",
+        "startDate": "Jul 1999",
+        "endDate": "Jun 2003",
         "score": "8.0/10",
         "courses": [
           "",
@@ -161,7 +146,7 @@
         "fluency": "Full professional proficiency"
       },
       {
-        "language": "Hindi",
+        "language": "French",
         "fluency": "Native or bilingual proficiency"
       }
     ],
@@ -176,9 +161,9 @@
     ],
     "references": [
       {
-        "name": "Gopal Krishnan",
+        "name": "Mr Beans",
         "designation": "Azure Consultant at Microsoft",
-        "reference": "I had the opportunity to work with Mukul on a year long project. What was immediately apparent was Mukul's belief and enthusiasm in agile methodologies. He was key in introducing agile to his organisation and also played a big role in helping team members getting on board with agile. I have found that as a project manager Mukul doesn't shy away from the technical details when facing a difficult problem and thus deservedly commanded respect from all members of the team. Always switched on and easy to get along, Mukul was very effective in coordinating all the stake holders, including offshore teams, and thus was instrumental in delivering the project on time, against very challenging schedule. I wouldn't hesitate to recommend Mukul and given the chance, would love to work with him again."
+        "reference": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.."
       }
     ],
     "projects": [
